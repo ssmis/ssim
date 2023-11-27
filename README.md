@@ -51,13 +51,13 @@ root/
                 ...
 ```
 
-####  2. Training
+#### Training
 
 ```bash
 python main.py --config ./configuration/isic.yaml
 ```
 
-####  3. Testing
+#### Testing
 
 ```bash
 python main.py --config ./configuration/isic.yaml --test
