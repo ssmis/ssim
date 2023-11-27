@@ -1,7 +1,7 @@
 # ssim
 
-
-#### .Folder
+# We used pre-trained weight from here: https://github.com/google-research/big_transfer
+#### Folder
 ```
 root/    
 |-- data/
